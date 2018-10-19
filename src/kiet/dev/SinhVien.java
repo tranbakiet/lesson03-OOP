@@ -20,4 +20,8 @@ public class SinhVien {
     public void DiemTB() {
 	  System.out.println(name+":"+DiemTB(Toan, Ly, Hoa));
 	}
+	public void Show() {
+		// TODO Auto-generated method stub
+		
+	}
 }
